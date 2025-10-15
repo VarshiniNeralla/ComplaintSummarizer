@@ -1,0 +1,29 @@
+
+
+1.     #"Summarize the following police complaint in a concise, legally-relevant way. "
+        # "Do not miss any critical information like dates, incidents, stolen items, financial details, "
+        # "or legal requests:\n\n" + text
+        
+        # "Summarize the following police complaint in a detailed and legally structured way. "
+        # "Retain all important facts including complainant details, dates, times, locations, nature of incident, "
+        # "suspect actions, stolen or damaged property, financial losses, and specific legal requests. "
+        # "Ensure the summary reads like a formal report ready for FIR registration:\n\n" + text
+        
+        # "Prepare an investigative summary of the following police complaint. "
+        # "Present the facts clearly in chronological order, highlighting key events, actions of the accused, "
+        # "the evidence available, and any losses or harm caused. "
+        # "Maintain objectivity and preserve every essential detail relevant to a police inquiry:\n\n" + text
+        
+        
+        # "Summarize the following police complaint into 5–7 bullet points. "
+        # "Each bullet should contain a clear factual or legal detail such as the incident type, date, location, people involved, and loss or damage. "
+        # "Keep it concise and objective:\n\n" + text
+        
+        # "Summarize the following police complaint into 5–7 bullet points. "
+        # "Each bullet should contain a clear factual or legal detail such as the incident type, date, location, people involved, and loss or damage. \n\n"
+        # "Keep it concise and objective:\n\n" + text
+        
+        # "Condense this complaint into a short, context-aware summary. Capture the background, main event, and impact, but express "
+        # "them using crisp factual sentences. Ensure the summary reflects the seriousness of the incident and can guide a law "
+        # "officer in categorizing the offense without ambiguity:\n\n" + text
+
